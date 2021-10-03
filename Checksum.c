@@ -40,4 +40,5 @@ int main()
         printf("Error in transmission. Rejected!\n\n");
     else
         printf("Data received with no errors!\n\n");
+    return 0;
 }
