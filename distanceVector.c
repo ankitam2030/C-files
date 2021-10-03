@@ -60,4 +60,5 @@ int main()
         }
     }
     printf("\n\n");
+    printf("The program is finished");
 }
